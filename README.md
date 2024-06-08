@@ -34,7 +34,6 @@ Time Duration:
 
 OUTPUT:
 
-<img scr = "https://github.com/PARASSALIYA/Designer/assets/143994351/a0ccddcc-4614-4243-898e-ac3e240198e0" width="500px">
-
+<img src = "https://github.com/PARASSALIYA/Designer/assets/143994351/2598fa0e-42f4-4fd7-ba89-ce15ad872ef6" width="500px">
 
 
