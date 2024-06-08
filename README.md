@@ -15,7 +15,8 @@ Time Duration:
 
 OUTPUT : 
 
-![WhatsApp Image 2024-06-08 at 10 58 45_d3942e69](https://github.com/PARASSALIYA/Designer/assets/143994351/46286708-8027-40fb-94e4-f94c5286d5d6)
+<img src = "https://github.com/PARASSALIYA/Designer/assets/143994351/46286708-8027-40fb-94e4-f94c5286d5d6" width="500px">
+
 
 ## Project Name: PR. 2 Designer
 
@@ -33,7 +34,7 @@ Time Duration:
 
 OUTPUT:
 
-![WhatsApp Image 2024-06-08 at 10 58 45_c5201671](https://github.com/PARASSALIYA/Designer/assets/143994351/a0ccddcc-4614-4243-898e-ac3e240198e0)
+<img scr ="https://github.com/PARASSALIYA/Designer/assets/143994351/a0ccddcc-4614-4243-898e-ac3e240198e0"width="500px">
 
 
 
